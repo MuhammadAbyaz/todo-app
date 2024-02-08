@@ -1,0 +1,15 @@
+D:\workspace\Projects\TodoApp\TodoApp\bin\Debug\TodoApp.exe.config
+D:\workspace\Projects\TodoApp\TodoApp\bin\Debug\TodoApp.exe
+D:\workspace\Projects\TodoApp\TodoApp\bin\Debug\TodoApp.pdb
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.AssemblyReference.cache
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\MainWindow.g.cs
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\App.g.cs
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp_MarkupCompile.cache
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp_MarkupCompile.lref
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\MainWindow.baml
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.g.resources
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.Properties.Resources.resources
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.GenerateResource.cache
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.csproj.CoreCompileInputs.cache
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.exe
+D:\workspace\Projects\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
